@@ -2,7 +2,7 @@
 
 ## Instalation :
 ```
-npm i primbon-scraper
+npm i scrape-primbon
 ```
 
 ## Usage:
